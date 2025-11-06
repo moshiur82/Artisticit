@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Artisticit/static/css/main.c6b3ee0b.css",
+    "main.js": "/Artisticit/static/js/main.63dd45ea.js",
+    "static/js/453.d7446e4a.chunk.js": "/Artisticit/static/js/453.d7446e4a.chunk.js",
+    "index.html": "/Artisticit/index.html",
+    "main.c6b3ee0b.css.map": "/Artisticit/static/css/main.c6b3ee0b.css.map",
+    "main.63dd45ea.js.map": "/Artisticit/static/js/main.63dd45ea.js.map",
+    "453.d7446e4a.chunk.js.map": "/Artisticit/static/js/453.d7446e4a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c6b3ee0b.css",
+    "static/js/main.63dd45ea.js"
+  ]
+}
